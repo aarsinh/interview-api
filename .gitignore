@@ -12,5 +12,5 @@ wheels/
 
 # VSCode generated files
 .vscode/
-
+.DS_Store
 processed/
